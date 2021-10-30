@@ -3,7 +3,7 @@
 Path tracking using pure pursuit algorithm.
 
 <p align="center">
-  <img width="600" height="450" src="https://github.com/arthur960304/pure-pursuit/blob/main/pure_pursuit.gif"/><br/>
+  <img width="600" height="400" src="https://github.com/arthur960304/pure-pursuit/blob/main/pure_pursuit.gif"/><br/>
   <em>Ego trying to follow target course using pure pursuit.</em>
 </p>
 
