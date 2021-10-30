@@ -3,8 +3,8 @@
 Path tracking using pure pursuit algorithm.
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/arthur960304/pure-pursuit/blob/main/pure_pursuit.gif"/><br/>
-  <em>Ego trying to follow target course using pure pursuit.</em>
+  <img width="500" height="300" src="https://github.com/arthur960304/pure-pursuit/blob/main/pure_pursuit.gif"/><br/>
+  <em>Ego following target course using pure pursuit.</em>
 </p>
 
 This project is inspired by [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics).
